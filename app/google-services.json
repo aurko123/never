@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736035150119",
+    "firebase_url": "https://never-87f5f.firebaseio.com",
+    "project_id": "never-87f5f",
+    "storage_bucket": "never-87f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736035150119:android:1a66227431bdd98e217102",
+        "android_client_info": {
+          "package_name": "com.example.never"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736035150119-ocbejj1l0fetv7rn46qecp2pjp2mejjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.never",
+            "certificate_hash": "1e80d41f2717c4205b3ed9bcacb13a808869ac16"
+          }
+        },
+        {
+          "client_id": "736035150119-366c3k8afsm6vs2b1p4in6ebinj7gb2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFU1dEmv2l-zCsVN50XM7QX7U_KmJd3Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736035150119-366c3k8afsm6vs2b1p4in6ebinj7gb2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
